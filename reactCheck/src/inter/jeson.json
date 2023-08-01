@@ -1,0 +1,123 @@
+   {
+    "ListOfSites": {
+        "Sellable": [
+            {
+                "siteid": "5d921876-7448-46a1-93f3-51cbcdf6eceb",
+                "sitename": "complianceSite1",
+                "lat": "null",
+                "log": "null",
+                "assetid": "123123123",
+                "assetname": "complianceAsset1",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "d19cbe15-1f35-4ad9-8418-32c0a1d50068",
+                "sitename": "assetStatCheckSite1",
+                "lat": "13.5",
+                "log": "57.9",
+                "assetid": "1515",
+                "assetname": "whitelabelCheck3",
+                "categorytype": "LIVESTOCK"
+            }
+        ],
+        "Whitelabelled": [
+            {
+                "siteid": "ff1e51e2-ed49-44a7-88f8-d0bd5900cf08",
+                "sitename": "TestAddOperatorSite",
+                "lat": "null",
+                "log": "null",
+                "assetid": "435345435",
+                "assetname": "TestPmOperatorAsset",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "0227f5f3-db14-401d-813c-7cfc35edc3f3",
+                "sitename": "TestCnuSite12345",
+                "lat": "14.9",
+                "log": "75.690642",
+                "assetid": "8765",
+                "assetname": "AssetStatCheck4",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "0227f5f3-db14-401d-813c-7cfc35edc3f3",
+                "sitename": "TestCnuSite12345",
+                "lat": "14.9",
+                "log": "75.690642",
+                "assetid": "987654",
+                "assetname": "AssetStatCheck6",
+                "categorytype": "LIVESTOCK"
+            }
+        ],
+        "ReadyForWhiteLabel": [
+            {
+                "siteid": "b64bb4b1-30f3-4b4c-b12e-48814ad8a9ff",
+                "sitename": "SriniSite1",
+                "lat": "null",
+                "log": "null",
+                "assetid": "1113",
+                "assetname": "ANIMAL",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "null",
+                "sitename": "null",
+                "lat": "null",
+                "log": "null",
+                "assetid": "1114",
+                "assetname": "ANIMAL",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "0227f5f3-db14-401d-813c-7cfc35edc3f3",
+                "sitename": "TestCnuSite12345",
+                "lat": "14.9",
+                "log": "75.690642",
+                "assetid": "141414",
+                "assetname": "whitelabelCheck2",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "d19cbe15-1f35-4ad9-8418-32c0a1d50068",
+                "sitename": "assetStatCheckSite1",
+                "lat": "13.5",
+                "log": "57.9",
+                "assetid": "1616",
+                "assetname": "whitelabelCheck5",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "0227f5f3-db14-401d-813c-7cfc35edc3f3",
+                "sitename": "TestCnuSite12345",
+                "lat": "14.9",
+                "log": "75.690642",
+                "assetid": "1818",
+                "assetname": "whitelabelCheck6",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "0227f5f3-db14-401d-813c-7cfc35edc3f3",
+                "sitename": "TestCnuSite12345",
+                "lat": "14.9",
+                "log": "75.690642",
+                "assetid": "88881111",
+                "assetname": "88881111",
+                "categorytype": "LIVESTOCK"
+            },
+            {
+                "siteid": "1df2c954-00bd-47d9-9f93-7e327208e0e1",
+                "sitename": "sum",
+                "lat": "null",
+                "log": "null",
+                "assetid": "sum",
+                "assetname": "sum",
+                "categorytype": "LIVESTOCK"
+            }
+        ],
+        "Count": {
+            "sellable": 2,
+            "whitelabelled": 3,
+            "readyForWhiteLabel": 7
+        }
+    }
+}

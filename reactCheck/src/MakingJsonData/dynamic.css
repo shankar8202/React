@@ -1,0 +1,72 @@
+.main{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid gray;
+}
+.submain{
+    /* border: 1px solid black; */
+    cursor: pointer;
+    &:hover{
+        background-color: rgb(248, 245, 245);
+    }
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+.fl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    
+    /* border: 1px solid black; */
+   
+}
+.title_div{
+    text-align: center;
+}
+/* .fragment{
+    background-image: ;
+} */
+.description{
+    font-size: 10px;
+}
+/* ---------------------------------------------- */
+/* men saloon service  */
+.Men_main{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid gray;
+    
+}
+.Men_submain{
+     /* border: 1px solid black; */
+     cursor: pointer;
+     padding: 20px;
+     /* background-image: url("./ServiceDetails/hair2.jpg");
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat; */
+     &:hover{
+         background-color: rgb(248, 245, 245);
+         /* width: 285px; */
+         transform: all 0.25;
+         transform: scale(1.08);
+         /* transition:  ease-out; */
+         
+         
+         /* height: 300px; */
+     }
+}
+.Men_fl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.Men_frgmntDiv{
+    display: flex;
+}
